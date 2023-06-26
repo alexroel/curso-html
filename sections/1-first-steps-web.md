@@ -1,5 +1,6 @@
 # Primeros pasos en la Web
-1. [Introducción](#introduccion)
+
+1. [Introducción](#introducción)
 2. [Introducción a la web](#introducción-a-la-web)
 3. [Desarrollo web](#desarrollo-web)
 4. [¿Qué necesitas para crear una página web?](#¿qué-necesitas-para-crear-una-página-web?)
@@ -9,6 +10,11 @@
 
 ---
 ## Introducción
+
+![Descripción de la imagen](../img/1.png)
+
+![Descripción de la imagen](../img/2.png)
+
 ¡Bienvenidos al curso de HTML: Primeros pasos en la Web! En esta sección, aprenderemos los conceptos fundamentales para adentrarnos en el mundo de la creación de páginas web.
 
 En la actualidad, la web se ha convertido en un medio esencial para comunicarnos, compartir información y realizar todo tipo de actividades. Para poder participar en este universo digital, es fundamental comprender los aspectos básicos del desarrollo web.
@@ -21,49 +27,45 @@ También abordaremos el manejo de archivos, que es una parte fundamental del des
 
 ¡Estoy emocionado de acompañarlos en este viaje hacia el fascinante mundo de la web! Así que prepárate para adquirir los conocimientos necesarios para crear tus propias páginas web y dar tus primeros pasos en el desarrollo web. ¡Comencemos!
 
-<img title="a title" alt="Alt text" src="../img/01_introduccion.png">
-
-## Introducción a la web
+---
+## Introducción en la web
 
 La web es una red de información global y accesible a través de Internet, que permite a los usuarios compartir y acceder a información, comunicarse y realizar transacciones en línea. La World Wide Web, también conocida como WWW o simplemente web, es uno de los servicios más populares de Internet.
-<img title="a title" alt="Alt text" src="../img/03_intro_web.png">
+
+![Descripción de la imagen](../img/4.png)
 
 La web se basa en una arquitectura cliente-servidor, donde los clientes (navegadores web) solicitan y reciben información de los servidores web. Los servidores web alojan los sitios web y los contenidos de Internet, y proporcionan acceso a ellos a través de una dirección web o URL (Uniform Resource Locator).
-<img title="a title" alt="Alt text" src="../img/04_intro_web.png">
 
+![Descripción de la imagen](../img/5.png)
 
 Los sitios web están creados utilizando lenguajes de marcado, como HTML, que permiten a los desarrolladores web crear estructuras y formatos para la información. CSS (Cascading Style Sheets) se utiliza para definir la presentación visual de la página, y JavaScript se utiliza para hacer que los sitios web sean interactivos y dinámicos.
-<img title="a title" alt="Alt text" src="../img/05_intro_web.png">
 
+![Descripción de la imagen](../img/6.png)
 
 La web ha evolucionado rápidamente desde su creación en los años 90, y ha pasado de ser una simple colección de páginas estáticas a una plataforma sofisticada para la comunicación, el comercio electrónico y la colaboración en línea. La web también se ha vuelto más accesible, con tecnologías como la web móvil y las aplicaciones web progresivas, que permiten a los usuarios acceder a la web desde dispositivos móviles.
 
 En resumen, la web es una red global de información accesible a través de Internet, que permite a los usuarios compartir información, comunicarse y realizar transacciones en línea. Está basada en una arquitectura cliente-servidor, y se utiliza HTML, CSS y JavaScript para crear y presentar la información en línea.
-<img title="a title" alt="Alt text" src="../img/2.png">
-
 
 ---
-
 ## Desarrollo web
 
-<img title="a title" alt="Alt text" src="../img/06_web.png">
+![Descripción de la imagen](../img/7.png)
 
 El desarrollo web es el proceso de creación de sitios web para internet o para una intranet. Se refiere a todas las tareas involucradas en la creación de una página web, desde la conceptualización hasta el diseño, desarrollo, implementación y mantenimiento.
-
 
 El desarrollo web se puede dividir en dos categorías principales: frontend, backend y full stack.
 
 ### Desarrollo frontend
 
-<img title="a title" alt="Alt text" src="../img/07_web.png">
+![Descripción de la imagen](../img/8.png)
 
 El frontend se refiere a la parte de la página web que los usuarios pueden ver y con la que pueden interactuar. Incluye todo lo que se ve en la pantalla, desde el diseño y la apariencia visual hasta la funcionalidad y la experiencia del usuario.
 
-<img title="a title" alt="Alt text" src="../img/08_frontend.png">
+![Descripción de la imagen](../img/9.png)
 
 El frontend se construye utilizando lenguajes de marcado, como HTML, que se utiliza para estructurar y organizar el contenido de la página web. CSS se utiliza para dar estilo y diseño a la página, y JavaScript se utiliza para añadir interactividad y funcionalidad dinámica a la página, como animaciones, efectos de desplazamiento y formularios interactivos.
 
-<img title="a title" alt="Alt text" src="../img/09_frontend.png">
+![Descripción de la imagen](../img/10.png)
 
 Los desarrolladores de frontend se encargan de la creación y el mantenimiento de la parte visual y funcional de la página web, asegurándose de que la experiencia del usuario sea atractiva, intuitiva y fácil de usar. También deben estar al tanto de las últimas tendencias y tecnologías en diseño y desarrollo web para garantizar que las páginas web sean modernas y estén actualizadas.
 
@@ -71,15 +73,15 @@ En resumen, el frontend es la parte visible y funcional de una página web, cons
 
 ### Desarrollo backend
 
-<img title="a title" alt="Alt text" src="../img/10_backend.png">
+![Descripción de la imagen](../img/11.png)
 
 El backend, también conocido como servidor, es la parte de la arquitectura web que se encarga de la lógica y la funcionalidad que se ejecuta en el servidor y no es visible para el usuario final. Incluye la gestión de la base de datos, el procesamiento de formularios y solicitudes, la gestión de usuarios y autenticación, y la implementación de la lógica empresarial.
 
-<img title="a title" alt="Alt text" src="../img/11_backend.png">
+![Descripción de la imagen](../img/12.png)
 
 El backend se construye utilizando lenguajes de programación como PHP, Python, Ruby, Java, y frameworks como Laravel, Django, Ruby on Rails, Spring Boot, entre otros. También se utilizan bases de datos, como MySQL, PostgreSQL, MongoDB, para almacenar y gestionar la información.
 
-<img title="a title" alt="Alt text" src="../img/12_backend.png">
+![Descripción de la imagen](../img/13.png)
 
 Los desarrolladores de backend se encargan de la creación y el mantenimiento de la lógica y la funcionalidad detrás de las aplicaciones web, asegurándose de que se ejecuten correctamente y de manera eficiente. También deben tener en cuenta la seguridad y la escalabilidad de las aplicaciones web, así como la optimización del rendimiento y la gestión de errores.
 
@@ -87,7 +89,7 @@ En resumen, el backend es la parte de la arquitectura web que se encarga de la l
 
 ### Desarrollo full stack
 
-<img title="a title" alt="Alt text" src="../img/13_full-stack.png">
+![Descripción de la imagen](../img/14.png)
 
 Un desarrollador full stack es aquel que tiene habilidades y experiencia tanto en el frontend como en el backend del desarrollo web. Es decir, tiene conocimientos tanto de la parte visible y funcional de la página web (frontend) como de la lógica y la funcionalidad que se ejecuta en el servidor (backend).
 
@@ -97,66 +99,75 @@ Los desarrolladores full stack tienen una comprensión completa del funcionamien
 
 En resumen, un desarrollador full stack es un profesional con habilidades y experiencia en el desarrollo de aplicaciones web tanto en el frontend como en el backend, capaz de diseñar, construir y mantener una aplicación web completa desde cero, manejando múltiples tecnologías y lenguajes de programación.
 
+---
 ## ¿Qué necesitas para crear una página web?
 
 Para crear una página web, necesitas los siguientes elementos:
-<img title="a title" alt="Alt text" src="../img/14_editores_texto.png">
 
 - **Editores de texto**: Necesitas un editor de texto para escribir el código HTML, CSS y JavaScript de tu página web. Hay muchos editores disponibles, algunos populares son:
+
     - Visual Studio Code
-    - Sublime Text 
+    - Sublime Text
     - Atom
     - Vim
 
-<img title="a title" alt="Alt text" src="../img/15_navegador_web.png">
+![Descripción de la imagen](../img/15.png)
 
-- **Navegador Web**: Para ver y probar tu página web, necesitas un navegador web como: 
+- **Navegador Web**: Para ver y probar tu página web, necesitas un navegador web como:
+
     - Chrome
     - Firefox
-    - Safari 
+    - Safari
     - Edge
-    Es importante probar tu sitio en diferentes navegadores para asegurarte de que se vea y funcione bien en todos ellos.
+
+Es importante probar tu sitio en diferentes navegadores para asegurarte de que se vea y funcione bien en todos ellos.
+
+![Descripción de la imagen](../img/16.png)
 
 - **Manejo de archivos**: Para crear una página web, debes saber cómo organizar y estructurar tus archivos. Es importante tener una estructura de carpetas bien definida que te permita mantener tu proyecto organizado y fácil de entender.
 
-- **Conocimientos básicos de HTML, CSS y JavaScript**: 
-    - HTML (HyperText Markup Language) es el lenguaje utilizado para crear la estructura y contenido de tu página web. 
-    - CSS (Cascading Style Sheets) es el lenguaje utilizado para dar estilo a tu página web. 
+- **Conocimientos básicos de HTML, CSS y JavaScript**:
+
+    - HTML (HyperText Markup Language) es el lenguaje utilizado para crear la estructura y contenido de tu página web.
+    - CSS (Cascading Style Sheets) es el lenguaje utilizado para dar estilo a tu página web.
     - Con JavaScript, puedes agregar interactividad y dinamismo a tu página web.
 
-<img title="a title" alt="Alt text" src="../img/16_dise%C3%B1o.png">
-
 - **Una herramienta de diseño gráfico**: Si quieres crear gráficos personalizados, como logotipos, imágenes o ilustraciones, necesitarás una herramienta de diseño gráfico, como:
-    - Adobe Photoshop 
-    - Illustrator. 
-    Sin embargo, esto no es estrictamente necesario para crear una página web básica.
+
+    - Adobe Photoshop
+    - Illustrator.
+    
+Sin embargo, esto no es estrictamente necesario para crear una página web básica.
+
+![Descripción de la imagen](../img/17.png)
 
 - **Un servidor web para publicar tu página web**: Para que tu página web esté disponible en línea, necesitas un servidor web. Puedes alojar tu sitio en un servicio de alojamiento web, como:
-    - GitHub Pages
-    - Netlify 
+
+    * GitHub Pages
+    - Netlify
     - Firebase
     - Puedes configurar tu propio servidor web en una computadora o servidor remoto.
 
-<div style="text-align: center;">
-        <img title="a title" src="../img/17_servidor.png" width="500">
-</div>
+![Descripción de la imagen](../img/18.png)
+
 - **Un nombre de dominio**: Un nombre de dominio es la dirección que las personas utilizan para acceder a tu sitio web. Necesitas registrar un nombre de dominio y configurar la dirección para que apunte a tu servidor web.
 
 En resumen, para crear una página web necesitas un editor de texto, conocimientos de HTML, CSS y JavaScript, un navegador web, un servidor web y un nombre de dominio. Con estos elementos, puedes crear y publicar tu propio sitio web.
 
+---
 ## Herramienta para el desarrollo
 
 Instalar herramientas de desarrollo es una parte importante para comenzar a crear páginas web. Aquí te dejo los pasos para instalar Firefox y Visual Studio Code, así como las extensiones recomendadas para Visual Studio Code:
 
 ### Instalar Firefox
 
-- Abre tu navegador actual y dirígete a la página web de Mozilla Firefox: https://www.mozilla.org/es-ES/firefox/new/
+- Abre tu navegador actual y dirígete a la página web de Mozilla Firefox: `https://www.mozilla.org/es-ES/firefox/new/`
 - Haz clic en el botón "Descargar Firefox" y espera a que se descargue el archivo de instalación.
 - Una vez descargado, haz doble clic en el archivo de instalación y sigue las instrucciones en pantalla para instalar Firefox en tu ordenador.
 
 ### Instalar Visual Studio Code
 
-- Abre tu navegador y dirígete a la página web de Visual Studio Code: https://code.visualstudio.com/
+- Abre tu navegador y dirígete a la página web de Visual Studio Code: `https://code.visualstudio.com/`
 - Haz clic en el botón "Descargar" para descargar el archivo de instalación.
 - Una vez descargado, haz doble clic en el archivo de instalación y sigue las instrucciones en pantalla para instalar Visual Studio Code en tu ordenador.
 
@@ -171,15 +182,16 @@ Después de instalar Visual Studio Code, puedes instalar las extensiones recomen
 
 Con estas herramientas y extensiones, estarás listo para comenzar a crear y desarrollar páginas web con facilidad.
 
+---
 ## Manejo de archivos
 
 El manejo de archivos es una parte importante del desarrollo web, ya que necesitas organizar tus archivos para que tu sitio web funcione correctamente. Aquí te dejo algunas consideraciones sobre el manejo de archivos:
 
 ### ¿Dónde debería estar tu sitio web en tu ordenador?
 
-Para organizar tus proyectos de manera efectiva, es recomendable que crees un espacio de trabajo en tu ordenador. Puedes crear una carpeta específica en tu disco duro para tus proyectos web, como:
+![Descripción de la imagen](../img/19.png)
 
-<img title="a title" alt="Alt text" src="../img/18_organizar_proyectos.png">
+Para organizar tus proyectos de manera efectiva, es recomendable que crees un espacio de trabajo en tu ordenador. Puedes crear una carpeta específica en tu disco duro para tus proyectos web, como:
 
 - `sitios-web `
 - `proyectos-web`
@@ -191,17 +203,18 @@ Dentro de esta carpeta, puedes crear subcarpetas para cada proyecto que estés t
 
 Una buena práctica es seguir una estructura de carpetas consistente en tus proyectos web. Aquí te dejamos una posible estructura:
 
-- Nombre del proyecto (por ejemplo, `my-web`)
+* Nombre del proyecto (por ejemplo, `my-web`)
 
-    - `img/images` para imágenes
-    - `css/styles`para archivos CSS
-    - `js/script` para archivos JavaScript
-    - `index.html` como página principal de tu sitio web
+    * `img/images` para imágenes
+    * `css/styles`para archivos CSS
+    * `js/script` para archivos JavaScript
+    * `index.html` como página principal de tu sitio web
 
 Siguiendo esta estructura, es más fácil encontrar y modificar archivos específicos y mantener un orden en tu proyecto web.
 
 Pasa a crear tu primer proyecto:
 
+---
 ## Resumen
 
 En el curso de HTML: Primeros pasos en la Web, exploramos los conceptos fundamentales necesarios para adentrarnos en el mundo del desarrollo web. Durante esta sección, nos enfocamos en proporcionar a los estudiantes las herramientas y conocimientos necesarios para crear una página web desde cero.
