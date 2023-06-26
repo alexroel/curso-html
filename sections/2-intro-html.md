@@ -15,7 +15,7 @@
 
 ## Introducción
 
-![Descripción de la imagen](../img/20.png)
+![Descripción de la imagen](../img/20.jpg)
 ![Descripción de la imagen](../img/21.png)
 
 HTML, siglas de HyperText Markup Language (Lenguaje de Marcado de Hipertexto), es el lenguaje estándar utilizado para crear y estructurar el contenido de las páginas web. Permite definir la estructura y presentación de los elementos de una página, como encabezados, párrafos, enlaces, imágenes y más.
