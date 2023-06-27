@@ -12,10 +12,11 @@
 9. [Resumen](#resumen)
 
 ---
+
 ## Introducción
 
-![Descripción de la imagen](../img/57.png)
-![Descripción de la imagen](../img/58.png)
+![Descripción de la imagen](../img/57.jpg)
+![Descripción de la imagen](../img/58.jpg)
 
 ¡Bienvenidos a la sección de Gráficos HTML de nuestro curso de HTML! En esta sección, exploramos el fascinante mundo de los gráficos y las imágenes en HTML, centrándonos especialmente en SVG (Scalable Vector Graphics).
 
@@ -34,29 +35,36 @@ A lo largo de esta sección, exploramos los conceptos clave de los gráficos HTM
 ¡Fue un placer compartir este conocimiento contigo y espero que puedas aprovechar al máximo tus habilidades en gráficos HTML y SVG!
 
 ---
+
 ## Introducción a SVG
+![Descripción de la imagen](../img/59.jpg)
 
 * **¿Qué es SVG?**
 SVG (Scalable Vector Graphics) es un formato de imagen basado en XML que permite crear gráficos vectoriales escalables. A diferencia de las imágenes rasterizadas, que se basan en píxeles y se pixelan al ampliarlas, SVG utiliza ecuaciones matemáticas para representar los elementos gráficos, lo que permite que las imágenes se redimensionen sin perder calidad.
 
 * Ventajas de usar SVG en comparación con imágenes rasterizadas:
 
-  * Escalabilidad perfecta: Una de las principales ventajas de SVG es su capacidad para escalar sin pérdida de calidad. Puedes ampliar o reducir una imagen SVG a cualquier tamaño sin que se vea borrosa o pixelada, lo que lo hace ideal para diseños responsivos y dispositivos de pantalla diferentes.
+![Descripción de la imagen](../img/60.jpg)
 
-  * Tamaño de archivo reducido: Los archivos SVG suelen ser mucho más pequeños en tamaño en comparación con imágenes rasterizadas como JPEG o PNG. Esto se debe a que SVG describe las imágenes mediante código XML, que es un formato de archivo de texto, mientras que las imágenes rasterizadas almacenan información de cada píxel.
+  * **Escalabilidad perfecta:** Una de las principales ventajas de SVG es su capacidad para escalar sin pérdida de calidad. Puedes ampliar o reducir una imagen SVG a cualquier tamaño sin que se vea borrosa o pixelada, lo que lo hace ideal para diseños responsivos y dispositivos de pantalla diferentes.
 
-  * Edición y personalización: SVG es un formato de imagen editable, lo que significa que puedes modificar y editar fácilmente los elementos gráficos con herramientas de edición de texto o gráficos vectoriales. Puedes cambiar colores, formas, tamaños y otros atributos de manera rápida y sencilla.
+  * **Tamaño de archivo reducido:** Los archivos SVG suelen ser mucho más pequeños en tamaño en comparación con imágenes rasterizadas como JPEG o PNG. Esto se debe a que SVG describe las imágenes mediante código XML, que es un formato de archivo de texto, mientras que las imágenes rasterizadas almacenan información de cada píxel.
 
-  * Interactividad y animación: SVG permite agregar interactividad y animación a las imágenes mediante la incorporación de scripts o el uso de atributos y elementos específicos de SVG. Puedes crear botones, efectos de desplazamiento, transiciones suaves y mucho más para mejorar la experiencia del usuario.
+  * **Edición y personalización:** SVG es un formato de imagen editable, lo que significa que puedes modificar y editar fácilmente los elementos gráficos con herramientas de edición de texto o gráficos vectoriales. Puedes cambiar colores, formas, tamaños y otros atributos de manera rápida y sencilla.
 
-  * Indexabilidad y accesibilidad: A diferencia de las imágenes rasterizadas, el contenido de las imágenes SVG es legible por los motores de búsqueda y se puede indexar. Además, SVG se puede hacer accesible mediante el uso adecuado de etiquetas y atributos para describir el contenido visual a las tecnologías de asistencia.
+  * **Interactividad y animación:** SVG permite agregar interactividad y animación a las imágenes mediante la incorporación de scripts o el uso de atributos y elementos específicos de SVG. Puedes crear botones, efectos de desplazamiento, transiciones suaves y mucho más para mejorar la experiencia del usuario.
 
-  * Integración con HTML y CSS: SVG se puede integrar fácilmente en documentos HTML mediante la etiqueta `<svg>`. Además, puedes aplicar estilos CSS a los elementos SVG para personalizar la apariencia y el diseño de tus gráficos.
+  * **Indexabilidad y accesibilidad:** A diferencia de las imágenes rasterizadas, el contenido de las imágenes SVG es legible por los motores de búsqueda y se puede indexar. Además, SVG se puede hacer accesible mediante el uso adecuado de etiquetas y atributos para describir el contenido visual a las tecnologías de asistencia.
+
+  * **Integración con HTML y CSS:** SVG se puede integrar fácilmente en documentos HTML mediante la etiqueta `<svg>`. Además, puedes aplicar estilos CSS a los elementos SVG para personalizar la apariencia y el diseño de tus gráficos.
 
 En resumen, SVG es un formato de imagen versátil que ofrece ventajas significativas sobre las imágenes rasterizadas. Su capacidad para escalar sin pérdida de calidad, su tamaño de archivo reducido, su editabilidad, interactividad y accesibilidad lo convierten en una opción poderosa para crear gráficos vectoriales en la web.
 
 ---
+
 ## Sintaxis básica de SVG
+
+![Descripción de la imagen](../img/61.jpg)
 
 * **Elemento `<svg>` y atributos principales:**
 El elemento `<svg>` es el contenedor principal utilizado para definir un gráfico SVG en un documento HTML. Algunos de los atributos principales que se pueden utilizar con el elemento `<svg>` son:
@@ -100,9 +108,13 @@ Ejemplo:
 En resumen, la sintaxis básica de SVG incluye el elemento `<svg>` como contenedor principal, atributos como `width`, `height` y `viewBox`, el sistema de coordenadas con el punto de origen en la esquina superior izquierda y diferentes unidades de medida para especificar dimensiones y posiciones. Estos conceptos son fundamentales para trabajar con SVG y crear gráficos vectoriales en HTML.
 
 ---
+
 ## Formas y elementos en SVG
 
-* **Elementos básicos:**
+![Descripción de la imagen](../img/62.jpg)
+
+* **Elementos básicos:** SVG proporciona una amplia variedad de formas y elementos que se pueden utilizar para crear gráficos y elementos visuales en una página web. Algunas de las formas y elementos más comunes en SVG incluyen:
+
   * `<rect>`: Se utiliza para crear un rectángulo. Puedes especificar sus coordenadas (x, y) de inicio, ancho, altura, esquinas redondeadas y otros atributos.
 
   Ejemplo:
@@ -236,7 +248,7 @@ SVG proporciona transformaciones que se pueden aplicar a los elementos para modi
   </svg>
   ~~~
 
-* **Máscaras y recortes:**
+* **Máscaras y recortes:** Las máscaras y los recortes son técnicas que se utilizan en SVG para ocultar o mostrar partes de un elemento gráfico. 
 
   * Máscaras (`<mask>`): Permiten ocultar o mostrar áreas de un elemento mediante una máscara definida.
 
@@ -272,6 +284,7 @@ SVG proporciona transformaciones que se pueden aplicar a los elementos para modi
 Estos son algunos de los elementos y conceptos básicos en SVG. Puedes combinarlos y experimentar con diferentes atributos y propiedades para crear gráficos y animaciones más complejas en SVG.
 
 ---
+
 ## Texto y fuente en SVG
 
 * **Elemento `<text>` y atributos de formato de texto:**
@@ -298,13 +311,14 @@ Estos son algunos de los elementos y conceptos básicos en SVG. Puedes combinarl
 
   ~~~html
   <svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
-    <text x="50" y="50" font-family="Arial" font-size="20" text-anchor="middle" fill="black">Texto centrado</text>
+    <text x="50" y="50" font-family="Arial" font-size="20" text-anchor="middle" fill="black">centrado</text>
   </svg>
   ~~~
 
 En resumen, el uso de texto y fuentes en SVG implica el uso del elemento `<text>` con atributos de formato de texto como font-family, font-size, font-weight y fill. También se puede utilizar fuentes personalizadas mediante el uso de @font-face. El posicionamiento y la alineación del texto se logran mediante los atributos x, y y text-anchor. Estos conceptos te permitirán crear y personalizar el texto en tus gráficos SVG.
 
 ---
+
 ## Trazos
 
 El atributo d de la etiqueta `<path>` en SVG se utiliza para definir la forma y los trazos de un camino. Este atributo acepta una serie de comandos para controlar la posición y curvatura del camino. Aquí tienes una explicación de algunos de los comandos más comunes:
@@ -316,28 +330,28 @@ El atributo d de la etiqueta `<path>` en SVG se utiliza para definir la forma y 
 * **L (lineto):** Traza una línea recta desde la posición actual hasta una posición especificada.
   Ejemplo: `<path d="M100 100 L200 200" />` - Traza una línea desde (100, 100) hasta (200, 200).
 
-* H (horizontal lineto): Traza una línea horizontal hasta una coordenada x especificada, manteniendo la coordenada y actual.
+* **H (horizontal lineto):** Traza una línea horizontal hasta una coordenada x especificada, manteniendo la coordenada y actual.
   Ejemplo: `<path d="M100 100 H200" />` - Traza una línea horizontal desde x=100 hasta x=200, manteniendo y=100.
 
-* V (vertical lineto): Traza una línea vertical hasta una coordenada y especificada, manteniendo la coordenada x actual.
+* **V (vertical lineto):** Traza una línea vertical hasta una coordenada y especificada, manteniendo la coordenada x actual.
   Ejemplo: `<path d="M100 100 V200" />` - Traza una línea vertical desde y=100 hasta y=200, manteniendo x=100.
 
-* C (curveto): Traza una curva de Bezier cúbica utilizando puntos de control.
+* **C (curveto):** Traza una curva de Bezier cúbica utilizando puntos de control.
   Ejemplo: `<path d="M100 100 C150 50, 250 150, 300 100" />` - Traza una curva cúbica desde (100, 100) hasta (300, 100) con puntos de control (150, 50) y (250, 150).
 
-* S (smooth curveto): Traza una curva de Bezier suave utilizando el último punto de control reflejado.
+* **S (smooth curveto):** Traza una curva de Bezier suave utilizando el último punto de control reflejado.
   Ejemplo: `<path d="M100 100 S150 50, 200 100" />` - Traza una curva suave desde la posición actual hasta (200, 100) con un punto de control reflejado (150, 50).
 
-* Q (quadratic Bézier curveto): Traza una curva de Bezier cuadrática utilizando un único punto de control.
+* **Q (quadratic Bézier curveto):** Traza una curva de Bezier cuadrática utilizando un único punto de control.
   Ejemplo: `<path d="M100 100 Q150 50, 200 100" />` - Traza una curva cuadrática desde (100, 100) hasta (200, 100) con un punto de control (150, 50).
 
-* T (smooth quadratic Bézier curveto): Traza una curva de Bezier cuadrática suave utilizando el último punto de control reflejado.
+* **T (smooth quadratic Bézier curveto):** Traza una curva de Bezier cuadrática suave utilizando el último punto de control reflejado.
   Ejemplo: `<path d="M100 100 T200 100" />` - Traza una curva cuadrática suave desde la posición actual hasta (200, 100) con un punto de control reflejado.
 
-* A (elliptical arc): Traza un arco elíptico utilizando parámetros como los radios x e y, la rotación y más.
+* **A (elliptical arc):** Traza un arco elíptico utilizando parámetros como los radios x e y, la rotación y más.
   Ejemplo: `<path d="M100 100 A50 50 0 0 1 200 100" />` - Traza un arco elíptico desde (100, 100) hasta (200, 100) con radios de 50, en sentido contrario a las agujas del reloj.
 
-* Z (closepath): Cierra el camino trazando una línea desde la posición actual hasta el punto inicial.
+* **Z (closepath):** Cierra el camino trazando una línea desde la posición actual hasta el punto inicial.
   Ejemplo: `<path d="M100 100 L200 200 L300 100 Z" />` - Traza un camino desde (100, 100) hasta (200, 200) hasta (300, 100) y luego cierra el camino.
 
 El atributo style se utiliza para aplicar estilos a un elemento SVG, como colores, trazos y propiedades de fuente. El valor "strong" no es un valor válido para el atributo style. Sin embargo, puedes utilizar el atributo fill para especificar el color de relleno de un elemento SVG.
@@ -353,6 +367,7 @@ Ejemplo:
 En este ejemplo, se crea un camino cerrado que forma un triángulo y se le aplica un relleno azul.
 
 ---
+
 ## Animación de forma
 
 * animate: Se utiliza para animar un solo atributo de un elemento SVG.
@@ -395,31 +410,30 @@ En este ejemplo, se crea un camino cerrado que forma un triángulo y se le aplic
 ### Ejemplo
 
 ~~~html
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400">
-  <rect id="myRect" x="50" y="50" width="100" height="100" fill="blue">
-    <animate attributeName="x" from="50" to="250" dur="2s" repeatCount="indefinite" />
-    <animate attributeName="y" from="50" to="250" dur="2s" repeatCount="indefinite" />
-    <animateTransform attributeName="transform" type="rotate" from="0 100 100" to="360 100 100" dur="3s" repeatCount="indefinite" />
-    <animateMotion dur="4s" repeatCount="indefinite">
-      <mpath xlink:href="#path" />
-    </animateMotion>
-    <set attributeName="fill" to="red" begin="2s" />
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect id="rect" x="50" y="50" width="100" height="100" fill="blue">
+    <animate attributeName="width" from="100" to="50" dur="2s" repeatCount="indefinite" />
+    <animate attributeName="height" from="100" to="50" dur="2s" repeatCount="indefinite" />
+    <animate attributeName="fill" values="blue;red;green;blue" dur="4s" repeatCount="indefinite" />
   </rect>
-  
-  <path id="path" d="M 50 200 Q 150 100 250 200" fill="none" stroke="gray" />
 </svg>
+
 ~~~
 
-Este ejemplo crea un rectángulo azul que se anima en varias formas:
+En este ejemplo, se crea un rectángulo azul con un ancho y altura de 100. Luego, se aplican tres animaciones al rectángulo:
 
-* Utiliza animate para animar las coordenadas x e y del rectángulo, desplazándolo desde la posición inicial (50, 50) a la posición final (250, 250).
-* Utiliza animateTransform para animar la rotación del rectángulo alrededor del punto (100, 100), girándolo desde 0 grados hasta 360 grados.
-* Utiliza animateMotion para animar el movimiento del rectángulo a lo largo de la trayectoria definida por el elemento path.
-* Utiliza set para cambiar el color de relleno del rectángulo de azul a rojo después de 2 segundos.
+* La primera animación cambia el ancho del rectángulo de 100 a 50 durante 2 segundos. Utiliza el atributo **attributeName** para especificar qué atributo del elemento se animará, en este caso, el ancho **(width)**.
 
-El resultado es un rectángulo que se mueve, gira y cambia de color de manera animada. Puedes ajustar los valores de duración, repeticiones y otros atributos para obtener diferentes efectos de animación.
+* La segunda animación cambia la altura del rectángulo de 100 a 50 durante 2 segundos. Al igual que la primera animación, utiliza el atributo **attributeName** para especificar el atributo que se animará, en este caso, la altura **(height)**.
+
+* La tercera animación cambia el color de relleno del rectángulo entre azul, rojo, verde y azul nuevamente durante 4 segundos. Utiliza el atributo attributeName para animar el atributo **fill.**
+
+Las animaciones se repiten indefinidamente utilizando el atributo **repeatCount="indefinite"**. Esto significa que las animaciones continuarán reproduciéndose una y otra vez.
+
+Puedes experimentar con los valores y atributos para crear animaciones más complejas utilizando SVG.
 
 ---
+
 ## Logo de YouTube
 
 ~~~html
@@ -465,6 +479,7 @@ La línea del atributo `d` en el SVG contiene una serie de comandos de ruta que 
 En resumen, el código SVG crea un elemento gráfico que representa el logo de YouTube mediante un trazado definido por una serie de comandos de ruta. El color de relleno del logo se establece en rojo (#FF0000). Al utilizar el elemento `<svg>` y sus atributos, podemos crear y mostrar gráficos vectoriales en una página web.
 
 ---
+
 ## Resumen
 
 En conclusión, hemos explorado la emocionante sección de Gráficos HTML en nuestro curso. Aprendimos que SVG es una poderosa herramienta para crear gráficos vectoriales escalables en la web, lo que nos permite diseñar imágenes y animaciones de alta calidad que se adaptan a diferentes dispositivos y tamaños de pantalla.

@@ -15,8 +15,8 @@
 
 ## Introducción
 
-![Descripción de la imagen](../img/40.png)
-![Descripción de la imagen](../img/41.png)
+![Descripción de la imagen](../img/40.jpg)
+![Descripción de la imagen](../img/41.jpg)
 
 En la sección de Multimedias de nuestro curso de HTML, exploramos cómo agregar elementos multimedia a nuestras páginas web. Aprendimos sobre diferentes etiquetas y atributos que nos permiten insertar imágenes, figuras, audio y video en nuestro código HTML.
 
@@ -37,9 +37,10 @@ A lo largo de esta sección, vimos ejemplos prácticos y aprendimos buenas prác
 ¡Hemos adquirido habilidades valiosas para trabajar con multimedia en HTML y estamos listos para crear contenido impactante en nuestras páginas web!
 
 ---
+
 ## Etiquetas de imágenes
 
-![Descripción de la imagen](../img/42.png)
+![Descripción de la imagen](../img/42.jpg)
 
 Las etiquetas de imágenes en HTML se utilizan para insertar y mostrar imágenes en una página web. A continuación, te proporciono información sobre las etiquetas más comunes utilizadas para las imágenes en HTML:
 
@@ -53,9 +54,10 @@ Las etiquetas de imágenes en HTML se utilizan para insertar y mostrar imágenes
 * El atributo `alt` proporciona un texto alternativo que se muestra si la imagen no se puede cargar o si el usuario utiliza un lector de pantalla. Se recomienda agregar un texto descriptivo para mejorar la accesibilidad.
 
 ---
+
 ## Etiquetas de figuras
 
-![Descripción de la imagen](../img/43.png)
+![Descripción de la imagen](../img/43.jpg)
 
 La etiqueta `<figure>` en HTML se utiliza para envolver contenido independiente, como imágenes, ilustraciones, diagramas, código, entre otros elementos, junto con una leyenda o descripción relacionada. A continuación, te proporciono información sobre cómo utilizar la etiqueta `<figure>` y su complemento, la etiqueta `<figcaption>`:
 
@@ -81,9 +83,10 @@ Puedes personalizar la apariencia de `<figure>` y `<figcaption>` utilizando CSS 
 Es importante tener en cuenta que la etiqueta `<figure>` no está limitada solo a imágenes, puedes utilizarla para envolver otros tipos de contenido que requieran una descripción o leyenda.
 
 ---
+
 ## Srcset y sizes
 
-![Descripción de la imagen](../img/44.png)
+![Descripción de la imagen](../img/44.jpg)
 
 Los atributos **srcset** y **sizes** son utilizados en conjunto con la etiqueta `<img>` en HTML para proporcionar versiones de imágenes optimizadas y adaptativas según las características del dispositivo y la resolución de la pantalla. A continuación, te proporciono información sobre cada uno de estos atributos:
 
@@ -108,9 +111,10 @@ Estos atributos (`srcset` y `sizes`) se utilizan en conjunto para permitir que l
 Es importante proporcionar diferentes versiones de la imagen con resoluciones y tamaños adecuados para asegurar una correcta visualización en diferentes dispositivos. Además, también se recomienda incluir un texto alternativo adecuado utilizando el atributo `alt` para mejorar la accesibilidad de las imágenes.
 
 ---
+
 ## Pictures
 
-![Descripción de la imagen](../img/45.png)
+![Descripción de la imagen](../img/45.jpg)
 
 La etiqueta `<picture>` en HTML se utiliza para ofrecer imágenes alternativas en función de las características del dispositivo, como la resolución de pantalla, la densidad de píxeles y el tipo de archivo admitido. Proporciona una forma más avanzada y flexible de mostrar imágenes adaptativas en comparación con el uso tradicional de la etiqueta `<img>`. A continuación, te proporciono información sobre cómo utilizar la etiqueta `<picture>`:
 
@@ -135,11 +139,12 @@ La etiqueta `<picture>` permite ofrecer diferentes versiones de una imagen para 
 Recuerda que es importante proporcionar imágenes alternativas para asegurar una buena experiencia de usuario, así como utilizar consultas de medios (media) y conjuntos de fuentes (`srcset`) adecuados para adaptar las imágenes a diferentes dispositivos y condiciones de visualización.
 
 ---
+
 ## Audio y videos
 
 En HTML, se pueden insertar y reproducir audios y videos utilizando las etiquetas `<audio>` y `<video>`. A continuación, te proporciono información sobre cómo utilizar estas etiquetas:
 
-![Descripción de la imagen](../img/46.png)
+![Descripción de la imagen](../img/46.jpg)
 
 * Etiqueta `<audio>`:
   Sintaxis básica:
@@ -173,7 +178,7 @@ Si deseas crear tus propios controles de audio personalizados, puedes utilizar J
 
 * Compatibilidad de navegadores:
 La compatibilidad con formatos de audio puede variar según el navegador y el dispositivo. Para garantizar la reproducción en diferentes navegadores, se recomienda proporcionar múltiples formatos de audio utilizando la etiqueta `<source>` y especificar formatos como MP3, Ogg y WAV.
-![Descripción de la imagen](../img/47.png)
+![Descripción de la imagen](../img/47.jpg)
 
 * Etiqueta `<video>`:
   Sintaxis básica:
@@ -208,9 +213,10 @@ La compatibilidad con formatos de audio puede variar según el navegador y el di
   Es importante tener en cuenta que la compatibilidad con formatos de video puede variar según el navegador y el dispositivo. Para garantizar la reproducción en diferentes navegadores, se recomienda proporcionar múltiples formatos de video utilizando la etiqueta `<source>` y especificar formatos como MP4, WebM y Ogg.
 
 ---
+
 ## Rutas relativas y absolutas
 
-![Descripción de la imagen](../img/48.png)
+![Descripción de la imagen](../img/48.jpg)
 
 En HTML, las rutas relativas y absolutas se utilizan para especificar la ubicación de archivos, como imágenes, enlaces o scripts, dentro de una estructura de carpetas. A continuación, te proporciono información sobre las rutas relativas y absolutas:
 
@@ -231,9 +237,10 @@ Es importante tener en cuenta que las rutas relativas y absolutas dependen de la
 Además, al utilizar rutas relativas o absolutas, presta atención a las mayúsculas y minúsculas en los nombres de archivos y directorios, ya que esto puede variar dependiendo del sistema operativo y del servidor web en el que se aloje tu proyecto.
 
 ---
+
 ## Multimedias externas
 
-![Descripción de la imagen](../img/49.png)
+![Descripción de la imagen](../img/49.jpg)
 
 Para incorporar contenido multimedia externo como videos de YouTube, mapas de Google Maps y widgets de redes sociales en HTML, puedes utilizar las siguientes técnicas:
 
@@ -335,6 +342,7 @@ Recuerda que al incorporar contenido externo, como videos de YouTube, mapas de G
 ~~~
 
 ---
+
 ## Resumen
 
 En conclusión, en esta sección del curso de HTML sobre Multimedia, hemos explorado diferentes aspectos relacionados con la incorporación de elementos multimedia en nuestras páginas web. Hemos aprendido a utilizar etiquetas como `<img>`, `<figure>`, `<audio>` y `<video>` para agregar imágenes, figuras, audio y video respectivamente.

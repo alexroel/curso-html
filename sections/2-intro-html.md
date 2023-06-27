@@ -16,7 +16,7 @@
 ## Introducción
 
 ![Descripción de la imagen](../img/20.jpg)
-![Descripción de la imagen](../img/21.png)
+![Descripción de la imagen](../img/21.jpg)
 
 HTML, siglas de HyperText Markup Language (Lenguaje de Marcado de Hipertexto), es el lenguaje estándar utilizado para crear y estructurar el contenido de las páginas web. Permite definir la estructura y presentación de los elementos de una página, como encabezados, párrafos, enlaces, imágenes y más.
 
@@ -35,9 +35,10 @@ Para ver el resultado de tu código HTML, puedes abrir el archivo en un navegado
 Esta es solo una breve introducción a HTML. A medida que profundices en el lenguaje, podrás aprender más etiquetas, atributos y técnicas para crear páginas web completas y funcionales.
 
 ---
+
 ## ¿Qué es HTML?
 
-![Descripción de la imagen](../img/22.png)
+![Descripción de la imagen](../img/22.jpg)
 
 HTML significa "HyperText Markup Language" (Lenguaje de Marcado de Hipertexto), y es el lenguaje utilizado para crear y estructurar el contenido de las páginas web.
 
@@ -45,14 +46,15 @@ En términos más simples, HTML es un conjunto de etiquetas (o "marcas") que se 
 
 HTML es el lenguaje básico de la web y es interpretado por los navegadores web. Cuando creas una página web en HTML, tu navegador interpreta el código HTML y muestra el contenido en pantalla.
 
-![Descripción de la imagen](../img/23.png)
+![Descripción de la imagen](../img/23.jpg)
 
 El HTML se ha ido actualizando a lo largo de los años, con la última versión siendo HTML5. HTML5 ha introducido nuevas características y etiquetas que hacen más fácil crear sitios web modernos y eficientes.
 
 ---
+
 ## Sintaxis y etiquetas
 
-![Descripción de la imagen](../img/25.png)
+![Descripción de la imagen](../img/25.jpg)
 
 La sintaxis de HTML consiste en etiquetas que se utilizan para crear elementos. Una etiqueta HTML consta de un nombre de etiqueta rodeado de corchetes angulares `< >`.
 
@@ -105,9 +107,10 @@ Aquí hay un ejemplo de un elemento que muestra una imagen con atributos.
 Es importante tener en cuenta que no todos los elementos HTML tienen contenido o atributos, pero la mayoria ellos tienen etiquetas de apertura y cierre.
 
 ---
+
 ## Estructura base de un documento HTML
 
-![Descripción de la imagen](../img/26.png)
+![Descripción de la imagen](../img/26.jpg)
 
 La estructura básica de un documento HTML consta de dos partes principales: el encabezado (head) y el cuerpo (body). Aquí hay un ejemplo de la estructura básica de un documento HTML:
 
@@ -153,9 +156,10 @@ El código HTML proporcionado es la estructura básica de una página web y cons
 En resumen, este código define la estructura básica de una página web, establece el título de la página, define el idioma predeterminado y el conjunto de caracteres utilizado, así como el contenido visible de la página.
 
 ---
+
 ## Encabezados y comentarios
 
-![Descripción de la imagen](../img/27.png)
+![Descripción de la imagen](../img/27.jpg)
 
 En HTML, los encabezados se utilizan para definir la estructura jerárquica de una página web y para organizar el contenido. Los encabezados se definen con las etiquetas `<h1>` a `<h6>`, siendo `<h1>` el encabezado principal y `<h6>` el menos importante.
 
@@ -194,7 +198,7 @@ Documento de ejemplo (intención adicional para ilustrar la jerarquía):
     <p>Párrafo</p>
 ~~~
 
-![Descripción de la imagen](../img/28.png)
+![Descripción de la imagen](../img/28.jpg)
 
 Los comentarios en HTML se utilizan para agregar notas o información útil que no se mostrará en la página web. Los comentarios comienzan con `<!--` y terminan con `-->`, y todo lo que se escribe entre estos dos símbolos será ignorado por el navegador al cargar la página web.
 
@@ -207,9 +211,10 @@ Por ejemplo, para agregar un comentario en HTML, se puede utilizar la siguiente 
 Los comentarios son útiles para explicar el código a otros desarrolladores, para dejar notas para uno mismo, o para desactivar temporalmente una sección de código sin tener que borrarlo por completo.
 
 ---
+
 ## Etiquetas de texto
 
-![Descripción de la imagen](../img/30.png)
+![Descripción de la imagen](../img/30.jpg)
 
 Algunas etiquetas de texto en HTML incluyen:
 
@@ -331,6 +336,7 @@ En HTML, puedes utilizar las etiquetas `<sup>` y `<sub>` para crear superíndice
 Estas etiquetas son solo algunas de las muchas que se pueden usar para dar formato y estilo al texto de una página web. Cada una tiene sus propios atributos y propiedades que se pueden utilizar para personalizar su apariencia.
 
 ---
+
 ## Ejemplos sobre etiquetas de texto
 
 En este ejemplo utlilizaremos la mayoria de las etiquetas de texto.
@@ -397,7 +403,9 @@ En este ejemplo utlilizaremos la mayoria de las etiquetas de texto.
 ~~~
 
 ---
+
 ## Código HTML
+
 Si deseas mostrar código HTML en una página HTML, se puede utilizar la etiqueta `<code>` para indicar que el contenido es un fragmento de código, y la etiqueta `<pre>` para preservar la estructura y el formato del código tal como aparece en el código fuente.
 
 Puedes utilizar la siguiente sintaxis HTML para mostrar el código dentro de una etiqueta `<code>` dentro de una etiqueta `<pre>`:
@@ -430,12 +438,15 @@ Puedes utilizar la siguiente sintaxis HTML para mostrar el código dentro de una
 La etiqueta `<code>` indicará que el contenido es un fragmento de código, mientras que la etiqueta `<pre>` preservará la estructura y el formato del código. Además, se ha utilizado la entidad HTML`&lt;` para representar el símbolo `<` y `&gt;` para representar el símbolo `>`, para que el código se muestre correctamente en el navegador.
 
 ---
+
 ## Herramienta para desarrollador
 
 Consola de desarrollador: Es una herramienta integrada en los navegadores web que permite depurar y analizar problemas en el código de una página web, visualizar y manipular el DOM, probar código JavaScript y realizar pruebas de rendimiento, entre otras funciones.
 
 ---
+
 ## Resumen
+
 HTML fue el lenguaje fundamental para crear páginas web y estructurar su contenido. En esta breve introducción, aprendimos sobre la sintaxis de HTML y las etiquetas básicas que se utilizan para definir la estructura y presentación de una página web.
 
 Exploramos cómo utilizar encabezados, comentarios y etiquetas de texto para dar formato al contenido y resaltar información importante. También mencionamos la importancia de la estructura base de un documento HTML, que incluye las etiquetas `<html>`, `<head>` y `<body>`.

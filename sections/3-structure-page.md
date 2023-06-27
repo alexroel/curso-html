@@ -10,11 +10,12 @@
 8. [Resumen](#resumen)
 
 ---
+
 ## Introducción
 
-![Descripción de la imagen](../img/32.png)
+![Descripción de la imagen](../img/32.jpg)
 
-![Descripción de la imagen](../img/33.png)
+![Descripción de la imagen](../img/33.jpg)
 
 ¡Bienvenidos al Curso de HTML!
 
@@ -38,9 +39,10 @@ Utilizamos la etiqueta `<table>`para crear tablas en HTML. Pudimos definir filas
 Con estos conceptos y etiquetas, pudiste crear una estructura sólida y organizada en tus páginas HTML. ¡Espero que hayas aprendido mucho y puedas aplicar estos conocimientos en tus proyectos futuros!
 
 ---
+
 ## Contenedor de elementos
 
-![Descripción de la imagen](../img/34.png)
+![Descripción de la imagen](../img/34.jpg)
 
 En HTML, los contenedores se utilizan para agrupar y organizar elementos dentro de una estructura jerárquica. Los contenedores son elementos que envuelven otros elementos y les proporcionan una relación y contexto visual. A continuación, se describen algunos de los contenedores más comunes en HTML:
 
@@ -70,11 +72,13 @@ En este ejemplo, se utiliza el elemento `<footer>` para envolver el contenido de
 
 * `<aside>:` El elemento `<aside>` se utiliza para representar contenido secundario o complementario que está relacionado con el contenido principal de la página, pero que puede existir de forma independiente. Puede contener elementos como barras laterales, anuncios o información adicional.
 
-![Descripción de la imagen](../img/35.png)
+![Descripción de la imagen](../img/35.jpg)
 
 ---
+
 ## Etiquetas de enlace
-![Descripción de la imagen](../img/36.png)
+
+![Descripción de la imagen](../img/36.jpg)
 
 Las etiquetas de enlace en HTML se utilizan para crear hipervínculos o enlaces a otras páginas, recursos o ubicaciones dentro de un sitio web. A continuación, se describen las etiquetas de enlace más comunes en HTML:
 
@@ -134,9 +138,10 @@ Las etiquetas de enlace en HTML se utilizan para crear hipervínculos o enlaces 
     ~~~
 
 ---
+
 ## Etiquetas de listas
 
-![Descripción de la imagen](../img/37.png)
+![Descripción de la imagen](../img/37.jpg)
 
 Las etiquetas de listas en HTML se utilizan para crear listas y organizar el contenido de una manera estructurada. Hay tres tipos principales de listas en HTML: listas desordenadas (`<ul>`), listas ordenadas (`<ol>`) y listas de definición (`<dl>`). A continuación, se describe cada una de estas etiquetas en detalle:
 
@@ -246,9 +251,10 @@ Los atributos comunes utilizados en las etiquetas de listas en HTML son los sigu
 Estas etiquetas de listas te permiten organizar el contenido de tu página web de manera estructurada y semántica. Puedes aplicar estilos a estas listas utilizando CSS para adaptar su apariencia según tus necesidades.
 
 ---
+
 ## Elemento de citas
 
-![Descripción de la imagen](../img/38.png)
+![Descripción de la imagen](../img/38.jpg)
 
 En HTML, existen varios elementos específicos para marcar y dar formato a las citas dentro de un documento. A continuación, se describen los elementos más comunes utilizados para las citas en HTML:
 
@@ -292,9 +298,10 @@ En HTML, existen varios elementos específicos para marcar y dar formato a las c
 Estos son algunos de los elementos más utilizados para marcar y dar formato a las citas en HTML. Al utilizar estos elementos correctamente, no solo le das estilo visual a las citas, sino que también proporcionas un significado semántico a tu contenido, lo cual es importante para la accesibilidad y la interpretación correcta de tu página web.
 
 ---
+
 ## Tablas
 
-![Descripción de la imagen](../img/39.png)
+![Descripción de la imagen](../img/39.jpg)
 
 Las tablas en HTML se utilizan para organizar y presentar datos en forma de filas y columnas. Son especialmente útiles para mostrar información tabular y estructurada. A continuación, te proporciono información sobre cómo crear y estructurar tablas en HTML:
 
@@ -364,7 +371,9 @@ Recuerda que puedes agregar estilos CSS a las tablas para personalizar su aparie
 Esto es solo una introducción básica a las tablas en HTML. Hay muchos otros elementos y atributos relacionados con las tablas que puedes explorar para crear tablas más complejas y personalizadas.
 
 ---
+
 ## Proyecto Restaurante
+
 Si deseas crear un enlace interno dentro de la misma página, puedes utilizar el símbolo "#" seguido de un identificador único de un elemento en la página. Esto se conoce como anclaje.
 
 Aquí tienes un ejemplo de cómo usar la etiqueta `<a>` con el símbolo "#" para crear un enlace interno:
@@ -726,6 +735,7 @@ En este ejemplo, los enlaces "Ir a la Sección 1", "Ir a la Sección 2" e "Ir a 
 ~~~
 
 ---
+
 ## Resumen
 
 En conclusión, hemos explorado la sección de estructura de una página HTML en este curso. Aprendimos sobre los elementos clave que nos permiten organizar y presentar nuestro contenido de manera efectiva.

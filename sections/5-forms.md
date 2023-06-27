@@ -11,10 +11,11 @@
 9. [Resumen](#resumen)
 
 ---
+
 ## Introducción
 
-![Descripción de la imagen](../img/50.png)
-![Descripción de la imagen](../img/51.png)
+![Descripción de la imagen](../img/50.jpg)
+![Descripción de la imagen](../img/51.jpg)
 
 ¡Bienvenidos a la sección de Formularios en nuestro curso de HTML!
 
@@ -33,10 +34,11 @@ En resumen, en esta sección del curso de HTML sobre formularios, aprendimos a c
 ¡Espero que hayan disfrutado esta sección y que estén listos para aplicar sus conocimientos en el desarrollo de formularios impactantes y funcionales en sus proyectos web!
 
 ---
+
 ## Formulario
 
-![Descripción de la imagen](../img/52.png)
-![Descripción de la imagen](../img/53.png)
+![Descripción de la imagen](../img/52.jpg)
+![Descripción de la imagen](../img/53.jpg)
 
 Los formularios en HTML son una parte fundamental de la web interactiva, ya que permiten a los usuarios ingresar y enviar datos al servidor. Un formulario está compuesto por varios elementos, como campos de entrada, botones de envío y elementos de selección, que permiten a los usuarios proporcionar información de manera estructurada.
 
@@ -71,6 +73,7 @@ Cuando un usuario envía un formulario, los datos ingresados se envían al servi
 ~~~
 
 En resumen, los formularios en HTML brindan una manera interactiva y estructurada para que los usuarios ingresen y envíen datos a través de la web. Son una herramienta poderosa para la interacción usuario-sitio y se utilizan ampliamente en aplicaciones web y sitios de comercio electrónico.
+
 ## Contenedor de elementos
 
 Las etiquetas `<fieldset>` y `<legend>` se utilizan en HTML para agrupar elementos relacionados dentro de un formulario y proporcionar una descripción o título descriptivo para ese grupo de elementos.
@@ -115,9 +118,10 @@ En este ejemplo, se utilizan `<fieldset>` para agrupar los campos relacionados d
 El uso de `<fieldset>` y `<legend>` ayuda a mejorar la estructura y legibilidad de los formularios, así como a proporcionar una mejor comprensión de la relación entre los campos relacionados.
 
 ---
+
 ## Elementos del Fomulario
 
-![Descripción de la imagen](../img/54.png)
+![Descripción de la imagen](../img/54.jpg)
 
 Los elementos del formulario en HTML son etiquetas utilizadas para crear diferentes tipos de campos de entrada y controles interactivos en un formulario web. Estos elementos permiten a los usuarios ingresar datos, hacer selecciones y realizar acciones dentro de un formulario. Algunos de los elementos más comunes son:
 
@@ -261,6 +265,7 @@ Ejemplo:
 Estos son solo algunos ejemplos de uso de las etiquetas mencionadas. Recuerda que hay muchas más etiquetas y atributos disponibles en HTML, y puedes combinarlos y personalizarlos según tus necesidades específicas.
 
 ---
+
 ## Elementos de entrada de datos
 
 En HTML, los formularios utilizan elementos de entrada de datos para permitir a los usuarios ingresar y enviar información al servidor. Aquí tienes información sobre los elementos de entrada de datos más comunes en formularios HTML:
@@ -450,9 +455,10 @@ Recuerda que estos son solo ejemplos básicos de uso de las etiquetas `<input>`.
 Recuerda que los datos ingresados por los usuarios en estos elementos de entrada deben ser validados y procesados en el lado del servidor para garantizar la seguridad y la integridad de los datos antes de su almacenamiento o uso adicional.
 
 ---
+
 ## Validación de formulario
 
-![Descripción de la imagen](../img/55.png)
+![Descripción de la imagen](../img/55.jpg)
 
 La validación de formularios en HTML es importante para asegurarse de que los datos ingresados por los usuarios cumplan con ciertos criterios o restricciones antes de ser enviados al servidor. A continuación, te presento algunas técnicas y atributos que puedes utilizar para realizar la validación de formularios en HTML:
 
@@ -523,9 +529,10 @@ A continuación, se explica cada parte del código:
 Estos son solo algunos ejemplos de cómo realizar la validación de formularios en HTML. Recuerda que la validación en el lado del cliente (HTML y JavaScript) es útil para mejorar la experiencia del usuario, pero siempre debes realizar una validación adicional en el lado del servidor para garantizar la seguridad y la integridad de los datos.
 
 ---
+
 ## Envio y procesamiento de formulario
 
-![Descripción de la imagen](../img/56.png)
+![Descripción de la imagen](../img/56.jpg)
 
 En HTML, el envío y procesamiento de formularios se realiza mediante el uso de la etiqueta `<form>` y los atributos asociados. Aquí tienes una guía básica sobre cómo enviar y procesar formularios en HTML:
 
@@ -576,6 +583,7 @@ Es importante realizar una validación adecuada y asegurarse de que los datos en
 En resumen, la principal diferencia entre "GET" y "POST" en HTML es que "GET" envía los datos como parte de la URL, mientras que "POST" los envía en el cuerpo de la solicitud HTTP. La elección entre los dos métodos depende de la naturaleza de los datos y de si se trata de información sensible o no.
 
 ---
+
 ## Tienda de mascotas
 
 ~~~html
@@ -666,6 +674,7 @@ En resumen, la principal diferencia entre "GET" y "POST" en HTML es que "GET" en
 ~~~
 
 ---
+
 ## Resumen
 
 En conclusión, en esta sección del curso de HTML sobre formularios, hemos explorado de manera exhaustiva los elementos esenciales para crear formularios interactivos y funcionales. Hemos aprendido cómo utilizar etiquetas como `<form>`, `<input>`, `<textarea>` y `<select>` para recopilar y procesar datos ingresados ​​por los usuarios.
